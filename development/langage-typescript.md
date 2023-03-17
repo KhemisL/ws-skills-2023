@@ -6,9 +6,15 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE  ✔️. 
+- l'intéret de TypeScript dans l'IDE  ✔️
+
+
 l'intéret de TypeScript est de typé fortement notre code ( function, variable state context... ) pour éviter les erreurs de type
-- les types de bases  ✔️. 
+
+
+- les types de bases  ✔️
+
+
 TypeScript comprend plusieur type , comme any, les type primitifs ( string, number, boolean...) et les types pérsonnalisé comme les interfaces
 ```javascript
 let ma_variable: any = valeur; 
