@@ -41,7 +41,14 @@ start();
 ### Un exemple de code commenté  ✔️
 
 ```javascript
-(e) => mc2;
+function activeMenu() {
+    const nav = document.querySelector(".container-nav");
+    const hamburger = document.querySelector(".burger")
+
+    hamburger.addEventListener("click", ()=>{
+        nav.classList.toggle("active")
+    })
+}
 ```
 
 ### Utilisation dans un projet  ✔️
