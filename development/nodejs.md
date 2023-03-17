@@ -7,7 +7,11 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple)  ✔️
-nodemon est une dépendance qui nous permet de rafraichir le serveur à la moindre modification ( ce qui nous evite de relancer le serveur à chaque fois ) 
+
+
+nodemon est une dépendance qui nous permet de rafraichir le serveur à la moindre modification ( ce qui nous evite de relancer le serveur à chaque fois )
+
+
 - La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple)  ✔️
 ```javascript
 const mongoose = require("mongoose");
