@@ -13,6 +13,8 @@ let toto = 42;     // toto est un nombre
     toto = true;   // toto est désormais un booléen
 ```
 - les normes `ecmascript`  ✔️
+
+
 Il s'agit d'un standard spécifique à un language comme JavaScript ( exmple: mot-clé let, const, ou les templates string... )
 ```javascript
 let me = "Khemis";
@@ -21,6 +23,8 @@ let result = `Je suis ${me} et j'ai ${mAge} ans`;
 ```
 
 - l'utilisation de l'`asynchrone`  ✔️
+
+
 L'asyncrone nous permet de déclarer des fonctions qui retourne une promise ( mot clé async et await )
 Exemple:
 ```javascript
