@@ -31,6 +31,7 @@ type my_type = {
    name:string, 
    my_function: ()=>string 
 } 
+```
 - comment et pourquoi étendre une interface ❌ / ✔️
 - les classes et les decorators ❌ / ✔️
 
