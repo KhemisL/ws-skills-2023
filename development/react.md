@@ -12,7 +12,7 @@ const [state, setState] = useState(""); // state = valeur du state, setState = m
 ```
 - les composants enfants et les _props_ qu'on leur passe  ✔️
 ```javascript
-const exemple = ({ id }) => {
+const exemple = ({ props }) => {
 ```
 - le déclenchement d'instructions en fonction des actions de l'utilisateur  ✔️
 ```javascript
