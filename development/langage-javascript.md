@@ -61,13 +61,13 @@ function activeMenu() {
 
 Description :
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ❌
 
 [lien du projet](...)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
 Description :
 
