@@ -73,7 +73,7 @@ prettyPrintWilder(wilders);
 /////// finish ///////
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
 [lien github](...)
 
@@ -85,7 +85,7 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
 Description :
 
