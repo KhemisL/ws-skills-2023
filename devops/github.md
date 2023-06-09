@@ -6,8 +6,8 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
+- l'initialisation d'un projet ✔️
+- travailler avec des branches ✔️
 - faire une PR ❌ / ✔️
 - utiliser git rebase pour faire des commits propres ❌ / ✔️
 - utiliser les gitHub actions ❌ / ✔️
@@ -28,7 +28,7 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
 Description :
 
