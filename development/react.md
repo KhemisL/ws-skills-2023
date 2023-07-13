@@ -52,19 +52,19 @@ const DeleteWilder = ({ id }) => {
 export default DeleteWilder;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/WildCodeSchool/2023-03-wns-lamarr-groupe1)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
 Description :
 
