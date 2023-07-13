@@ -75,7 +75,7 @@ prettyPrintWilder(wilders);
 
 ### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/WildCodeSchool/2023-03-wns-lamarr-groupe1)
 
 Description :
 
@@ -87,7 +87,7 @@ Description :
 
 ### Utilisation en environement professionnel ✔️
 
-Description :
+Description : Dans mon entreprise nous sommes en train de créer une application, nous utilisons la technologie Angular qui comprend pas defaut TypeScript
 
 ## 🌐 J'utilise des ressources
 
